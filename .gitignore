@@ -1,0 +1,10 @@
+
+obsolete/
+
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# ignore compressed files
+*.zip
+*.tar.gz
